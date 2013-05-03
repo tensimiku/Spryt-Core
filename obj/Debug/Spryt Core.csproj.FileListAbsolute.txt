@@ -1,5 +1,0 @@
-F:\Users\DevBird\Documents\Visual Studio 2012\Projects\Spryt Core\bin\Debug\Spryt Core.exe
-F:\Users\DevBird\Documents\Visual Studio 2012\Projects\Spryt Core\bin\Debug\Spryt Core.pdb
-F:\Users\DevBird\Documents\Visual Studio 2012\Projects\Spryt Core\obj\Debug\Spryt Core.exe
-F:\Users\DevBird\Documents\Visual Studio 2012\Projects\Spryt Core\obj\Debug\Spryt Core.pdb
-F:\Users\DevBird\Documents\Visual Studio 2012\Projects\Spryt Core\obj\Debug\Spryt Core.csprojResolveAssemblyReference.cache

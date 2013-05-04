@@ -11,8 +11,8 @@ namespace SprytCore
 {
     class SprytCore
     {
-        #error Insert Server Root Path HERE
-        private String WebServerRoot = @"c:\www";
+        #error Insert Server Root Path HERE - Root Path string must end with \
+        private String WebServerRoot = @"c:\www\";
         private TcpListener Listener;  
 
         static void Main(string[] args)
